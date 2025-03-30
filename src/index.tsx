@@ -53,7 +53,7 @@ export function apply(ctx: Context) {
         if (error.code) {
           switch (error.code) {
             case 'ECONNREFUSED':
-              return '服务未启动，请检查本地服务'
+              return '服务未启动，请 @二月霜 检查本地服务'
             case 'ETIMEDOUT':
               return '请求超时，请检查网络连接'
             default:
