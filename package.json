@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-febfrost-daily-anime",
+  "description": "获取“一觉醒来二次元发生了什么”",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.17.11"
+  }
+}
